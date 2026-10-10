@@ -1,0 +1,8 @@
+# app-ads.txt for Desi Khel.
+# pub-2863030454276723 is the AdMob publisher ID
+# (AdMob -> Settings -> Account information -> Publisher ID). Host this file at
+# the ROOT of the website you enter as "Developer website" in Play Console,
+# so that it opens at  https://<your-website>/app-ads.txt
+#
+# pub-2863030454276723 इस ऐप का AdMob Publisher ID है।
+google.com, pub-2863030454276723, DIRECT, f08c47fec0942fa0
